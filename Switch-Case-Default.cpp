@@ -34,5 +34,3 @@ main() {
   getch();
 
 }
-
-Membuat Looping 
